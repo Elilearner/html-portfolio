@@ -1,0 +1,29 @@
+/* All the color-title are of font-weight: normal*/
+*{
+   background-color: gainsboro;
+}
+.color-title{
+    font-weight: normal
+}
+/* change the size of the image*/
+img{
+height: 200px;
+width: 200px;
+}
+/*mach the text with the images calors*/
+
+#red{
+    color: red;
+}
+#blue{
+    color: blue;
+}
+#orange{
+    color: orange;
+}
+#green{
+    color: green;
+}
+#yellow{
+    color: yellow;
+}

@@ -1,0 +1,31 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+ list-style-position: inside;
+}
+
+div {
+  height: 200px;
+  width: 200px;
+  
+}
+/* Write your CSS below, don't change the rules above. */
+/* All the paragraf will be color red*/  
+p{color: red;
+}
+/* all the element with claas "note" will have font-size: 20px*/
+.note{font-size: 20px }
+/* Only with the (id-selector-demo) will be color green*/
+#id-selector-demo{
+color: green;
+
+/*all the element with value "4" will be color blue*/
+}
+li[value="4"] {
+  color: blue;
+
+/*Center all the text in the pag.*/
+}
+body
+{text-align: center;
+}
