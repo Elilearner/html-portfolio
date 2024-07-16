@@ -1,0 +1,51 @@
+#circles{
+   
+    width: 350px;
+    /* justify-content: center; */
+    /* align-content: center; */
+    /* justify-items: center; */
+    
+ } 
+
+.desk{
+    position: absolute;
+    left: 405px;
+    width: 10%;
+    margin-top: 65px;
+    border-radius: 70%;
+    border: 8px solid rgb(58, 56, 56);
+ 
+    }
+.graphic{
+    position: absolute;
+    left: 680px;
+    width: 10%;
+    margin-top: 65px;
+    border-radius: 70%;
+    border: 8px solid rgb(58, 56, 56);
+   
+}
+.person{
+    
+    position: absolute;
+    left: 925px;
+    width: 10%;
+    margin-top: 65px;
+    border-radius: 70%;
+    border: 8px solid rgb(58, 56, 56);
+}
+
+#w05{
+    justify-content: center;
+    background-color: #585758fa;
+    width: 82%;
+    height: 310px;
+    border-width: 0px;
+    margin:auto;
+      
+}
+div{
+    text-align:center;
+    justify-content: center;
+}
+
